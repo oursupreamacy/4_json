@@ -1,17 +1,25 @@
 # Prettify JSON
 
-[TODO. There will be project description]
+Prettifies json-files
 
 # Quickstart
 
-[TODO]
+Just launch it from terminal.
 
 Example of script launch on Linux, Python 3.5:
 
 ```#!bash
 
 $ python pprint_json.py <path to file>
-# TODO add output example
+[
+    {
+        "geoData": {
+            "coordinates": [
+                37.39703804817934, 
+                55.740999719549094
+            ]
+    }
+]
 
 ```
 
